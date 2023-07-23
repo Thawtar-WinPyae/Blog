@@ -1,0 +1,22 @@
+{
+    "blogs" : [
+        {
+            "id" : 1,
+            "title" : "What is React?",
+            "author" : "Thawtar WP",
+            "body" : "abcd efg hijk lmnop qrstu vw xy z"
+        },
+        {
+            "id" : 2,
+            "title" : "How to be Sayar Gyi?",
+            "author" : "Aung Htet Chon",
+            "body" : "abcd efg hijk lmnop qrstu vw xy z"
+        },
+        {
+            "id" : 3,
+            "title" : "What is HTML?",
+            "author" : "Thawtar WP",
+            "body" : "abcd efg hijk lmnop qrstu vw xy z"
+        }
+    ]
+}

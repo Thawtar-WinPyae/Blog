@@ -1,0 +1,12 @@
+.Home .card{
+    border: 1px solid gray;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px black;
+}
+
+a{
+    color: blue;
+    text-decoration: underline;
+}
